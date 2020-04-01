@@ -1,4 +1,4 @@
-B551: Games and Bayes
+Games and Bayes
 ===================================
 
 **Part 1: IJK**
