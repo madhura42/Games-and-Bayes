@@ -103,23 +103,23 @@ strength matrix.
 
 Output Image 1
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_simple/output_simple1.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_simple/output_simple1.jpg)
 
 Output Image 2
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_simple/output_simple4.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_simple/output_simple4.jpg)
 
 Output Image 3
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_simple/output_simple5.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_simple/output_simple5.jpg)
 
 Output Image 4
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_simple/output_simple8.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_simple/output_simple8.jpg)
 
 Output Image 5
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_simple/output_simple7.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_simple/output_simple7.jpg)
 
 In Simple Bayes Net implementation, the output image 2 is resulting into a
 distorted line because the image has gradient maximum at those points. The
@@ -145,23 +145,23 @@ we still fail to detect the ridge line. The results are given below.
 
 Output Image 1
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_map/output_map.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_map/output_map.jpg)
 
 Output Image 2
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_map/output_map4.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_map/output_map4.jpg)
 
 Output Image 3
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_map/output_map5.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_map/output_map5.jpg)
 
 Output Image 4
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_map/output_map7.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_map/output_map7.jpg)
 
 Output Image 5
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_map/output_map8.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_map/output_map8.jpg)
 
 
 **Part 3: HMM with human feedback**
@@ -193,8 +193,8 @@ results obtained in the previous algorithms.
 
 Output Image 1
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_human/output_human1.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_human/output_human1.jpg)
 
 Output Image 2
 
-![alt text](https://github.com/madhura42/B-551-Elements-of-Artificial-Intelligence/blob/master/mabartak-a2/part2/output_human/output_human7.jpg)
+![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/mabartak-a2/part2/output_human/output_human7.jpg)
