@@ -236,7 +236,7 @@ LSTM
 13680s |
 | Validation | 1.62s |
 
-| type|name |description |
-|----|---|---|
-| *address* | _user | address of certificate owner |
-| *bytes32* | _hash | sha256 hash of the certificate text |
+| No|Model |Split |Time/ietration |Total time |
+|----|---|---|---|---|
+| 1. | ResNet18 | Train | 1.06s | 14580s |
+| 2. | ResNet18 | Validation | 1.13s | 
