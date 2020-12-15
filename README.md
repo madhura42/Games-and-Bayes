@@ -217,26 +217,11 @@ LSTM
  | Train | 5.425 |
 | Validation | 5.097 |
 
-**2. Time efficiency**
-
-| **No**. | **Model** | **Split** | **Time/iteration** | **Total time** |
-
-|   1.    |  ResNet18 |   Train   |        1.06s       |      14580s    |
-                      | Validation| 1.13s |
-|
-2. |
-ResNet50
- | Train | 1.69s |
-15120s |
-| Validation | 1.91s |
-|
-3. |
-LSTM
- | Train | 1.45s | 
-13680s |
-| Validation | 1.62s |
-
 | No|Model |Split |Time/ietration |Total time |
 |----|---|---|---|---|
 | 1. | ResNet18 | Train | 1.06s | 14580s |
-| 2. | ResNet18 | Validation | 1.13s | 
+| 1. | ResNet18 | Validation | 1.13s | 
+| 2. | ResNet50 | Train | 1.69s | 15120s |
+| 2. | ResNet50 | Validation | 1.91s | 
+| 3. | LSTM | Train | 1.45s | 13680s |
+| 3. | LSTM | Validation | 1.62s | 
