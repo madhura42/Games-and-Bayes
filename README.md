@@ -198,3 +198,40 @@ Output Image 1
 Output Image 2
 
 ![alt text](https://github.com/madhura42/Games-and-Bayes/blob/master/part2/output_human/output_human7.jpg)
+
+
+| **No**. | **Model** | **Split** | **Loss** |
+
+1. |
+ResNet 18
+ | Train | 10.172 |
+| Validation | 12.817 |
+|
+2. |
+ResNet 50
+ | Train | 6.446 |
+| Validation | 9.056 |
+|
+3. |
+LSTM
+ | Train | 5.425 |
+| Validation | 5.097 |
+
+**2. Time efficiency**
+
+| **No**. | **Model** | **Split** | **Time/iteration** | **Total time** |
+
+|   1.    |  ResNet18 |   Train   |        1.06s       |      14580s    |
+                      | Validation| 1.13s |
+|
+2. |
+ResNet50
+ | Train | 1.69s |
+15120s |
+| Validation | 1.91s |
+|
+3. |
+LSTM
+ | Train | 1.45s | 
+13680s |
+| Validation | 1.62s |
