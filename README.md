@@ -235,3 +235,8 @@ LSTM
  | Train | 1.45s | 
 13680s |
 | Validation | 1.62s |
+
+| type|name |description |
+|----|---|---|
+| *address* | _user | address of certificate owner |
+| *bytes32* | _hash | sha256 hash of the certificate text |
